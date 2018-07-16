@@ -1,0 +1,6 @@
+/* TODO move to SASS and mixin bootstrap queries */
+@media (min-width: 768px) {
+    .vertical-separator-right {
+        border-right: 1px dashed #333;
+    }
+}
